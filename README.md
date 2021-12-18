@@ -23,7 +23,7 @@ Install software and copy your public token.
 
 ## Exo-Quant console
 Pro version provides many tools for professional trading out of the box, but we are developing **Exo-Quant console** for business clients.
-Material researched here is not immediately availiable for public users. 
+Material researched here is not immediately availiable for public use. 
 
 Indicators, orderflow data, statistics, web socket api can be acccess only with Exo-Quant after entering special token in the login window.
 
