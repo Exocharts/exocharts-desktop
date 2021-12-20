@@ -1,0 +1,9 @@
+Fisher indicator of markers of >0 and <0 on price chart
+
+Orderflow divergence indicator
+
+1, 5, 15, 30 min charts with last day, hour, n minutes's max and min
+
+Regression on small datasets for predictions ex.: 30x1min for predicting 5x1min
+
+Average of last 5x1min candles to last 1 min candle
