@@ -18,7 +18,7 @@ https://exocharts.com/status/desktop/token
 
 Install software and copy your public token.
 
-(At the moment Desktp Pro version is accesisble for web premium users or having B2B access token)
+(At the moment Desktop Pro version is accessible for web premium users or having B2B access token)
 
 
 ## Exo-Quant console
